@@ -8,7 +8,7 @@ public class GeraA {
         if (qtd >= 1){
             retorno = "A" + gerar(qtd-1);
             
-            //System.out.println(qtd + " -> " + retorno);
+            System.out.println(qtd + " -> " + retorno);
         }
         
         return retorno;

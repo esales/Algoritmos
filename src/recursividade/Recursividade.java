@@ -3,11 +3,11 @@ package recursividade;
 public class Recursividade {
 
     public static void main(String[] args) {
-        System.out.println("Fatorial");
-        
-        var fatorial = new Fatorial();
-        
-        System.out.println(fatorial.calcularFatorial(10));
+//        System.out.println("Fatorial");
+//        
+//        var fatorial = new Fatorial();
+//        
+//        System.out.println(fatorial.calcularFatorial(10));
         
 //        System.out.println("Fibonacci");
 //        
@@ -15,12 +15,12 @@ public class Recursividade {
 //        
 //        fibonacci.retornarSequenciaFibonacci(15);
 ////        
-//        System.out.println("Gerar A");
-//
-//        var geraA = new GeraA();
-//        
-//        System.out.println(geraA.gerar(3));
-//        
+        System.out.println("Gerar A");
+
+        var geraA = new GeraA();
+        
+        System.out.println(geraA.gerar(13));
+        
 //        System.out.println("");
 //        System.out.println("Potencia");
 //        
